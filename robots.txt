@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://larthoke.github.io/sitemap.html.gz
+Sitemap: https://larthoke.github.io/app/sitemap.html.gz
+Sitemap: https://larthoke.github.io/assets/sitemap.html.gz
+Sitemap: https://larthoke.github.io/css/sitemap.html.gz
+Sitemap: https://larthoke.github.io/includes/sitemap.html.gz
+Sitemap: https://larthoke.github.io/item/sitemap.html.gz
+Sitemap: https://larthoke.github.io/src/sitemap.html.gz
